@@ -6,6 +6,7 @@ Used title tag to change the title of the file
 <br>
 Used h1 h2 to give the desired heading. Then used the anchor tag nested in the p tag and the Image tag img for the image used the attribute of the image tag like the width to set the
 width of the picture. Then to get the unordered list used ul and li tags and to get the order list used the ol tag
+
 ![cat 2](https://github.com/jaitensahu/cat_photo_app/assets/127736781/959a660e-ff1c-42c2-8195-5c05e824c99c)
 <br>
 <hr>
